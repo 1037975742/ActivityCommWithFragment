@@ -17,6 +17,8 @@ import java.util.List;
  */
 public class MainActivity extends BaseActivity {
 
+
+
     @Override
     public void setFunctionsForFragment(int fragmentId) {
         super.setFunctionsForFragment(fragmentId);
