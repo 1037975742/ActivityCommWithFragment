@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
+ * test git master
  * Created by niuxiaowei on 2016/1/20.
  */
 public class Functions {
