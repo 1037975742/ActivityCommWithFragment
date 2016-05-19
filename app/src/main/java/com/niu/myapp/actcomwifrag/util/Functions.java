@@ -7,6 +7,8 @@ import java.util.Map;
 
 /**
  *
+ * 测试dev分支
+ *
  * Created by niuxiaowei on 2016/1/20.
  */
 public class Functions {
