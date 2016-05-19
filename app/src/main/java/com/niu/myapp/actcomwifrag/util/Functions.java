@@ -26,6 +26,7 @@ public class Functions {
         public abstract Result function(Param data);
     }
 
+
     /**
      * 没有参数和返回值的方法
      */
